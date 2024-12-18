@@ -60,4 +60,8 @@ Follow these steps to set up the Django backend:
    ```bash
    npm start
 
+### After starting the server
 
+Open http://localhost:3000 for frontend app
+open http://localhost:8000 for backend app
+(if u run on defualt ports , or change the port number according to usability)
