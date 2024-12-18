@@ -21,3 +21,43 @@ Follow these steps to set up the Django backend:
    ```bash
    git clone https://github.com/your-username/query-management.git
    cd query-management
+2. Create a virtual environment:
+   ```bash
+   python -m venv venv
+3. Activate the virtual environment:
+
+   ```bash
+   .\venv\Scripts\activate
+
+4. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+### Setting Up the frontend
+Follow these steps to set up the Django backend:
+1. Install additional dependencies:
+   ```bash
+   npm install
+
+2. Initialize a new React application:
+   ```bash
+   npx create-react-app frontend
+   
+3. Navigate to the frontend directory:
+
+   ```bash
+   cd frontend
+### Running the Application
+Follow these steps to set up the Django backend:
+####Running the Backend
+1. To start the Django server, run the following command:
+   ```bash
+   python manage.py runserver
+
+
+####Running the Frontend
+1. To launch the React application, run the following command:
+   ```bash
+   npm start
+
+
