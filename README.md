@@ -64,5 +64,5 @@ Follow these steps to set up the Django backend:
 
 1. Open http://localhost:3000 for frontend app
 2. open http://localhost:8000 for backend app
-3. 
+
 (if u run on defualt ports , or change the port number according to usability)
